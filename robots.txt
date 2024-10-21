@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tickocene.github.io/tickocene.txt.gz
+Sitemap: https://tickocene.github.io/app/tickocene.txt.gz
+Sitemap: https://tickocene.github.io/assets/tickocene.txt.gz
+Sitemap: https://tickocene.github.io/css/tickocene.txt.gz
+Sitemap: https://tickocene.github.io/includes/tickocene.txt.gz
+Sitemap: https://tickocene.github.io/item/tickocene.txt.gz
+Sitemap: https://tickocene.github.io/src/tickocene.txt.gz
